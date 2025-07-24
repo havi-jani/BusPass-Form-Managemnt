@@ -18,7 +18,16 @@ display the details of student to verify
 <img src="https://github.com/havi-jani/BusPass-Form-Managemnt/blob/d897b120af552fcce2db3fbec394baa65269084c/Student%20Details%20for%20Department.png">
 
 not-verified status will change to verified
+<img src="https://github.com/havi-jani/BusPass-Form-Managemnt/blob/1199191a9a3303580e998005635e0a9a6c294775/Verified%20by%20Department.png">
 
+### Student Section
+only Department Verified student will can listout in Student Section
+display the list of unverified student by student section Co-ordinater
+
+
+display the details of student to verify
+
+not-verified status will change to verified
 
 ### BusPass Form 
 Student BusPass Form after Verification and validation
