@@ -13,3 +13,8 @@ Havi Jani & Team.
 ### BusPass Form 
 Student BusPass Form after Verification and validation
 <img src="https://github.com/havi-jani/BusPass-Form-Managemnt/blob/e1ee53437b89cf472fc56a11cc6eb07730b173cb/BussPass%20Form.png">
+
+
+### Admin
+In Admin page , Admin will list or add the Student's enrollment no who are currently studying
+<img src="https://github.com/havi-jani/BusPass-Form-Managemnt/blob/b7ed42c908675f51f97de32b7780f608da07d8fc/Admin.png">
