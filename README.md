@@ -8,4 +8,4 @@ To Solve above issue, we built BussPass Form Management System, where student ca
 Havi Jani & Team.
 
 ### Student BussPass Registration Form :
-![img](Registration Form.png)
+![img](images/Registration Form.png)
