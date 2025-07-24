@@ -29,8 +29,10 @@ display the details of student to verify
 <img src="https://github.com/havi-jani/BusPass-Form-Managemnt/blob/a3c5315f03e2176e2650c82241134d3420380b8f/Student%20Details%20for%20SS.png">
 
 not-verified status will change to verified
+<img src="https://github.com/havi-jani/BusPass-Form-Managemnt/blob/551167c5b7be3094253cc935e946a53212c55132/Verified%20by%20SS.png">
 
 ### BusPass Form 
+after verified by student section co-ordinater, generated Pass Form will be sent to student via Registered E-mail
 Student BusPass Form after Verification and validation
 <img src="https://github.com/havi-jani/BusPass-Form-Managemnt/blob/e1ee53437b89cf472fc56a11cc6eb07730b173cb/BussPass%20Form.png">
 
