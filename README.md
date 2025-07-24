@@ -5,3 +5,6 @@ Students face many difficulties Like time consumption, delay due to Prof. Absenc
 To Solve above issue, we built BussPass Form Management System, where student can fill the Pass Form and get verified & validate digitally.
 
 Developed By: Havi Jani & Team.
+
+=> Student BussPass Registration Form :
+{Registration Form.png}
