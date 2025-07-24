@@ -12,4 +12,4 @@ Havi Jani & Team.
 
 ### BusPass Form 
 Student BusPass Form after Verification and validation
-<img src="https://github.com/havi-jani/BusPass-Form-Managemnt/blob/cd0ce8bf94cd3ea3f69f6ee4e7f49244f22cfb04/Registration%20Form.png](https://github.com/havi-jani/BusPass-Form-Managemnt/blob/e1ee53437b89cf472fc56a11cc6eb07730b173cb/BussPass%20Form.png">
+<img src="https://github.com/havi-jani/BusPass-Form-Managemnt/blob/e1ee53437b89cf472fc56a11cc6eb07730b173cb/BussPass%20Form.png">
