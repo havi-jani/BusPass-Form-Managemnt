@@ -22,6 +22,7 @@ not-verified status will change to verified
 
 ### Student Section
 only Department Verified student will can listout in Student Section
+
 display the list of unverified student by student section Co-ordinater
 <img src="https://github.com/havi-jani/BusPass-Form-Managemnt/blob/3b587bee4fbbb3c0669620958ce92494939bbe26/Not%20Verified%20by%20SS.png">
 
@@ -33,6 +34,7 @@ not-verified status will change to verified
 
 ### BusPass Form 
 after verified by student section co-ordinater, generated Pass Form will be sent to student via Registered E-mail
+
 Student BusPass Form after Verification and validation
 <img src="https://github.com/havi-jani/BusPass-Form-Managemnt/blob/e1ee53437b89cf472fc56a11cc6eb07730b173cb/BussPass%20Form.png">
 
